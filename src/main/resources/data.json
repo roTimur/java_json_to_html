@@ -1,0 +1,40 @@
+{
+  "ns11_code": 1,
+  "gd_tin": "520475294",
+  "gb_tin": "420475291",
+  "ns4_name": 1,
+  "js_obj": {
+    "field1": "hello",
+    "field2": 123,
+    "ns11_code": "ns11_code 2",
+    "field3": {
+      "ns4_name": "1 + 2",
+      "gd_tin": "1 + 2 tin",
+      "gb_tin": "420475291  22"
+    }
+  },
+  "js_arr": [
+    {
+      "field1": "hello 1",
+      "field2": 123,
+      "field3": "some thing 1"
+    },
+    {
+      "field1": "hello 2",
+      "field2": 234,
+      "field3": "some thing 2"
+    },
+    {
+      "field1": "hello 3",
+      "field2": 345,
+      "field3": "some thing 3"
+    }
+  ],
+  "address": "AL HRAZMIY 16-A",
+  "na1_name": 1,
+  "gb_name": "Karimov",
+  "company_name": "BILIM POEZDI",
+  "tin": "200201202",
+  "gd_name": "Salimov",
+  "ns10_code": 26
+}
